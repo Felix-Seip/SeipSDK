@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Math_Collection</id>
+    <version>0.2.0</version>
+    <title>Math Collection</title>
+    <authors>Felix Seip, Christian Bechtluft</authors>
+    <owners>Felix Seip, Christian Bechtluft</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+	<dependencies>
+		<dependency id="RuntimeFunctionParser" version="0.0.8" />
+	</dependencies>
+    <projectUrl>https://github.com/Felix-Seip/Math_Collection</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Math Collection is a project that contains mathematical concepts</description>
+    <releaseNotes>Initial version</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Math, Seip_Guarantee</tags>
+  </metadata>
+</package>
